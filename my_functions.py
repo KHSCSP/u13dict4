@@ -1,5 +1,4 @@
-import json
-from pip._vendor import requests
+import json, requests
 
 # ---- functions for API ----
 def get_dad_joke():  
