@@ -29,6 +29,7 @@ print("\nhere are the counts:")
 
 
 print("\n--- part 3: numbers from a text file ---")
+# source https://www.springboard.com/blog/data-science/15-fun-datasets-to-analyze/
 # get: want list of floats
 # cleanse: remove something?
 # analyze: stats?
