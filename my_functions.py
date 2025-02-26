@@ -4,7 +4,7 @@ import json, requests
 def get_dad_joke():  
     url = 'https://icanhazdadjoke.com/'
     heads = {'Accept': 'application/json'}
-    response = requests.get(url, headers=heads).json()
+    response = ''
     return response
 
 # reveive a list and a string
