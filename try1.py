@@ -17,7 +17,7 @@ print("\nhere are just the dog jokes:")
 
 
 print("\n\n--- part 2: strings from a text file ---")
-# get: 
+# get: string
 # cleanse: remove punctuation, newlines, other?
 # analyze: counts
 
@@ -30,7 +30,7 @@ print("\nhere are the counts:")
 
 print("\n--- part 3: numbers from a text file ---")
 # source https://www.springboard.com/blog/data-science/15-fun-datasets-to-analyze/
-# get: want list of floats
+# get: list of floats
 # cleanse: remove something?
 # analyze: stats?
 # FYI, this data is the average life expectancy in the US from 1950 to 2023
