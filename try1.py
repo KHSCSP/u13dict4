@@ -12,6 +12,10 @@ jokes = []
 print("\nall jokes:", jokes)
 
 
+
+print("\nhere are just the jokes:")
+
+
 print("\nhere are just the dog jokes:")
 
 
@@ -35,7 +39,7 @@ print("\n--- part 3: numbers from a text file ---")
 # analyze: stats?
 # FYI, this data is the average life expectancy in the US from 1950 to 2023
 
-print("\na slife of the data:")
+print("\na slice of the data:")
 
 
 

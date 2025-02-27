@@ -7,10 +7,16 @@ def get_dad_joke():
     response = ''
     return response
 
+
+# probably don't need a function here...
+def get_only_joke(jokes):
+    pass
+
+
 # reveive a list and a string
 # search for a string
 # return a list
-def make_sublist(lst, word):
+def get_sublist(lst, word):
     pass
 
 
